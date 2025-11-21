@@ -15,3 +15,4 @@ func main() {
 
 	http.HandleFunc("/color", ColorHandler)
 }
+// modification du collègue : ajout d'un texte
